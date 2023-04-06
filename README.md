@@ -30,11 +30,28 @@ This required our team to outsource data from a variety of sources to help under
 - Since their company was similar in nature to Southern California Edison, we used their publicly available data
 - Also utilized environmental and weather data from Calfire which included csv's and GIS map layers. 
 
-## Deliverables
+## Deliverables (can be seen in the files attached above)
 The two delivarables that we developed included:
 - We submitted a comprehensive Proposal Response Report, which included detailed information on proposed solutions, pricing, terms and conditions, dependencies, and implementation strategies. Our thorough report provided a complete overview of our proposal and demonstrated our commitment to delivering a high-quality solution..
 - We also submitted an informative PowerPoint presentation as a deliverable, which effectively condensed our report and conveyed our suggestions in a timely manner. This helped to emphasize the most significant information and ensure a focused understanding of our recommendations
 
-## Summary of Insights Found
+## Utilies Used
+- **Excel**: 
+    - Cleaned and transformed secondary sourced data to fit our needs. Analyzed customer complaint data from Southern California Edison's database to reccommend analytical approaches on how this company can prioritize customer complaints for CRM responsivness
+- **PowerPoint**: 
+    - Created a presentation that showcased a overview of our suggestions
+- **SQL**: 
+    - Entered data into a relational database management system to reccomend ideas on how to proprely store and manage their customer, and weather data.
+- **GIS** (Geographical Information Software): 
+    - Utilized to depict the areas that more prominent to catching fires by using spatial historical fire locations in Southern California.
+    - Also reccomended new loations for electrical towers to avoid wild fires and increase Public Safety Power Shutoffs.
 
-## Recommendations Summary
+## Summary of Suggestions
+
+
+
+
+
+
+
+
