@@ -1,6 +1,7 @@
 # 2022 Information Technology Competition - *1st Place Award*
-
 Hosted by MISSA at California State Polytechnic University, Pomona
+
+*All relevant sources can be seen above in the attached files* 
 
 ## Competition Information
 
