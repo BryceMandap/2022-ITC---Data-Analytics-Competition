@@ -36,7 +36,7 @@ The two delivarables that we developed included:
 - We submitted a comprehensive Proposal Response Report, which included detailed information on proposed solutions, pricing, terms and conditions, dependencies, and implementation strategies. Our thorough report provided a complete overview of our proposal and demonstrated our commitment to delivering a high-quality solution..
 - We also submitted an informative PowerPoint presentation as a deliverable, which effectively condensed our report and conveyed our suggestions in a timely manner. This helped to emphasize the most significant information and ensure a focused understanding of our recommendations
 
-## Utilies Used
+## Utilities Used
 - **Excel**: 
     - Cleaned and transformed secondary sourced data to fit our needs. Analyzed customer complaint data from Southern California Edison's database to reccommend analytical approaches on how this company can prioritize customer complaints for CRM responsivness
 - **PowerPoint**: 
