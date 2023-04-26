@@ -5,7 +5,7 @@ Hosted by MISSA at California State Polytechnic University, Pomona
 
 ## Competition Information
 
-This compeition is one of the largest comeptitive events held at cal poly pomona, it held annually by the well known Infomration Systmems club at cal poly pomona, it is recognized by the several schools in souther california. Teams are randomally chosen to help establish a fair distrubtion of contenders. 
+This compeition is one of the largest comeptitive events held at cal poly pomona, it is held annually by the well known Infomration Systmems club at cal poly pomona, it is recognized by the several schools in souther california. Teams are randomally chosen to help establish a fair distrubtion of contenders. 
 
 Each team was given a case study to work on for three weeks. 
 - Total of 2 weeks to work on the deliverable (Report and Analyses)
